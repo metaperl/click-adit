@@ -4,6 +4,6 @@
 repeat 101 times
    tell application "Google Chrome" to activate
    delay 4
-   do shell script "/usr/local/bin/cliclick c:1005,180 w:1000 c:1060,180"
+   do shell script "/usr/local/bin/cliclick c:510,178 w:1000 c:570,178"
    delay 28
 end repeat

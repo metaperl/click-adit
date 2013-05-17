@@ -12,5 +12,5 @@ repeat 105 times
    tell application "Safari" to activate
    delay 2
    do shell script "/usr/local/bin/cliclick c:1005,180 w:1000 c:1060,180"
-   delay 24
+   delay 27
 end repeat
